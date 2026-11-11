@@ -1,6 +1,6 @@
 # Cinco situações
 
-Situações que cabem no projeto da Criadora X. Para cada uma, diga na Parte 3 de `minha-ficha.md` se a ação está dentro ou fora da ficha, qual linha da ficha decide e o que o agente faz.
+Situações que cabem no projeto da Criadora X. Para cada uma, diga na Parte 4 de `minha-ficha.md` se a ação está dentro ou fora da ficha, qual linha da ficha decide e o que o agente faz.
 
 | Nº | Situação |
 |---|---|

@@ -2,10 +2,11 @@
 
 Arquivos do exercício dessa aula. São texto em Markdown: abrem em qualquer editor, e um leitor de Markdown mostra as tabelas formatadas. Você não precisa instalar nada nem ter acesso ao Grok Bot.
 
-- `trechos-do-case.md`: cinco trechos do case sobre a regra de navegação, o login, a exceção de 26 de outubro e o bloqueio.
+- `trechos-do-case.md`: oito trechos do case sobre a regra de navegação, o login, a exceção de 26 de outubro, o bloqueio, o contexto de cada squad, a mudança de posicionamento e o prompt comercial.
 - `acoes-da-tela.md`: dez ações que uma rede social costuma oferecer, para ler contra a regra.
+- `equipe-de-agentes.md`: oito agentes, um por tarefa do case, para cortar para no máximo três.
 - `cinco-situacoes.md`: cinco situações para decidir com a sua ficha.
-- `minha-ficha.md`: o modelo com as três partes do exercício.
+- `minha-ficha.md`: o modelo com as quatro partes do exercício.
 
 Salve uma cópia de `minha-ficha.md` e responda na cópia. Os três sins e as cinco partes de uma permissão estão na página da aula.
 

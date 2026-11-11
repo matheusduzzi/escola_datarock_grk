@@ -40,7 +40,46 @@ Com as suas palavras, a partir de `trechos-do-case.md` e da Parte 1.
 - **Quem pode mudar essa ficha:**
 - **Uma pergunta que a regra não responde e que eu faria ao gestor:**
 
-## Parte 3: as cinco situações
+## Parte 3: a equipe em três
+
+A partir de `equipe-de-agentes.md` e dos trechos 6 a 8. No máximo três agentes.
+
+### Agente 1
+
+- **Nome:**
+- **Função (uma frase):**
+- **Números da equipe que ele absorve:**
+- **Antifunções (um item por linha):**
+  -
+
+### Agente 2
+
+- **Nome:**
+- **Função (uma frase):**
+- **Números da equipe que ele absorve:**
+- **Antifunções (um item por linha):**
+  -
+
+### Agente 3 (se precisar)
+
+- **Nome:**
+- **Função (uma frase):**
+- **Números da equipe que ele absorve:**
+- **Antifunções (um item por linha):**
+  -
+
+### O que sai da equipe
+
+| Nº | Por quê |
+|---|---|
+| | |
+
+### O custo
+
+- **Cópias na equipe de oito:**
+- **Cópias na minha equipe:**
+
+## Parte 4: as cinco situações
 
 Uma linha por situação de `cinco-situacoes.md`.
 

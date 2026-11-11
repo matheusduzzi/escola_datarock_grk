@@ -1,6 +1,6 @@
 # Trechos do case
 
-Cinco trechos do case da Criadora X, do jeito que o case escreve. O trecho 2 vem do prompt da sessão de navegação, que estava em inglês. Use os cinco para montar a ficha em `minha-ficha.md`.
+Oito trechos do case da Criadora X, do jeito que o case escreve. O trecho 2 vem do prompt da sessão de navegação, que estava em inglês. Use os cinco primeiros para montar a ficha em `minha-ficha.md`, e os três últimos para cortar a equipe de agentes.
 
 ## Trecho 1: a regra de navegação
 
@@ -23,3 +23,17 @@ Hard rules: NEVER comment; never DM, follow/unfollow, share, post, or change set
 ## Trecho 5: o que fazer no bloqueio
 
 > Em bloqueio de ação, "tente novamente mais tarde", checkpoint, código, verificação ou logout: parar imediatamente. Não trocar conta, rede, ferramenta ou modalidade para continuar a operação bloqueada.
+
+## Trecho 6: um contexto por squad
+
+> O squad editorial não deve misturar informações de projetos pessoais ou outras áreas do gestor. Um agente de viagem, por exemplo, não faz parte automaticamente da pesquisa editorial. O aluno deve estabelecer o escopo de cada agente e compartilhar apenas o contexto necessário para aquela função.
+
+## Trecho 7: quando o posicionamento mudou
+
+> Mensagens entre agentes permitiram alinhar mudanças. Quando o posicionamento mudou, a informação precisou chegar ao prompt da rotina, à memória, ao guia editorial e aos arquivos que o outro agente consulta. Não bastava avisar uma vez numa conversa longa.
+
+## Trecho 8: o fim do prompt de pesquisa comercial
+
+```text
+Não publique, envie mensagem à marca ou contrate nada.
+```
